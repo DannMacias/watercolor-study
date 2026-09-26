@@ -19,3 +19,6 @@ desktop.ini
 # Editors
 .vscode/
 .idea/
+
+# Personal research notes and PDFs (not versioned)
+daniel_notes/
